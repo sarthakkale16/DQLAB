@@ -1629,7 +1629,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton('☆ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ☆', url='https://t.me/rb1official')
     ])
 
     if offset != "":
